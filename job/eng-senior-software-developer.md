@@ -1,16 +1,17 @@
 # Senior Software Developer
 
 Do you have a passion for upending traditional industries through innovation and
-technology? Interested in pioneering new ways of doing business?
+technology? Interested in pioneering new ways of doing business? Or do you
+simply love shipping high-quality code that people will actually use?
 
 Freshline is seeking a Senior Software Developer (maybe you?) that can take us
 from a fast-growing startup to an industry standard.
 
-As a Senior Software Developer, you will work with our Product, Design, and
-Engineering teams to build our next generation of features, help scale our
-technology, and supercharge the Freshline brand at an international level. This
-is a highly entrepreneurial role. You'll be working directly alongside the
-founders and the founding team to push the startup to new frontiers.
+As a Senior Software Developer you will work with closely with a small and
+tight-knit team to build our next generation of features, help scale our
+technology, and build the Freshline brand at an international level. This is a
+highly entrepreneurial role. You'll be working directly alongside the founders
+and the founding team to push the startup to new frontiers.
 
 ## Overview
 
@@ -19,14 +20,14 @@ founders and the founding team to push the startup to new frontiers.
 - **Role**: Senior Software Developer
 - **Us**: [freshline.io](https://freshline.io/)
 - **How to apply**:
-    - **Email**: [hiring@freshline.io](mailto:hiring@freshline.io), OR
-    - **AngelList**:
-      https://angel.co/company/freshline/jobs/915886-senior-software-engineer
+  - **Email**: [hiring@freshline.io](mailto:hiring@freshline.io), OR
+  - **AngelList**:
+    https://angel.co/company/freshline/jobs/915886-senior-software-engineer
 
 ## What We're Looking For
 
-1. Fundamental understanding of JavaScript both on the server and the client.
-2. Familiarity with asychronous and modular design patterns.
+1. Fundamental understanding of web development best practices.
+2. Familiarity with asynchronous and modular design patterns.
 3. Understanding and managing the flow of data through systems at a high-level,
    while being able to dive deep where required.
 4. Has the courage to try out new tools, fail fast, and dive into unknowns to
@@ -41,15 +42,37 @@ pushed forward, the most interesting features you've shipped.
 
 We would love to chat!
 
+## Stack
+
+Freshline is built using a collection of modern tools and technologies. We like
+to think we use the right tool for the right job when possible.
+
+With that said here's a highlight of our current stack:
+
+- **Go**
+  - API
+  - Queue processing
+  - Payments
+- **TypeScript/JavaScript**
+  - API
+  - Next.js
+  - React
+  - NestJS
+- **MongoDB**
+- **RabbitMQ**
+- **AWS ECS**
+  - Containerized
+  - Fargate
+
 ## Responsibilities
 
 1. Writing clean, high-quality, high-performance, maintainable code.
-2. Coordinate cross-functionally to insure project meets business objectives and
-   compliance standards.
+2. Coordinate cross-functionally to ensure the project meets business objectives
+   and compliance standards.
 3. Support test and deployment of new products and features.
 4. Determining the best way to _quickly_ ship features while planning for the
    _future_ with the constraints of **today**.
-5. Maintain, manage and scale our current stack on an ongoing basis. 
+5. Maintain, manage and scale our current stack on an ongoing basis.
 
 ## About
 
