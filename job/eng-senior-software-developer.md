@@ -22,7 +22,7 @@ and the founding team to push the startup to new frontiers.
 - **How to apply**:
   - **Email**: [hiring@freshline.io](mailto:hiring@freshline.io), OR
   - **AngelList**:
-    https://angel.co/company/freshline/jobs/915886-senior-software-engineer
+    https://angel.co/l/2x2p8F
 
 ## What We're Looking For
 
