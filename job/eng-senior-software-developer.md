@@ -76,11 +76,8 @@ With that said here's a highlight of our current stack:
 
 ## About
 
-Freshline is an ecommerce & fulfillment platform for perishable food wholesalers
-entering the direct-to-consumer market. We focus on only the most exquisite
-goods, allowing for elusive foods like fresh Wagyu Beef and fresh Hokkaido Uni
-to be delivered direct to your door. Freshline (previously Coastline before our
-B2C pivot during COVID) is backed by $2.5M+ in venture capital from Alpha Quest,
-Techstars, Next Canada, and a group of angels including Uber’s SVP, Head of
-UberEats, and the VP of Ticketmaster. Join us as we reinvent the perishable food
-supply-chain.
+At Freshline, we're passionate about the intersection of technology and food. With more than 20 years of collective experience in software engineering, wholesale food, and perishable logistics, Freshline's mission is to help suppliers build thriving online businesses.
+
+Our founders are recipients of Forbes 30 Under 30 and have been featured on Gimlet Media, Globe and Mail, Financial Post, Bay Street Bull, and Google - among others.
+
+We're a fast-growing team with experience across tech, food, and supply chain. We're backed by Alpha Quest VC, Techstars, Next Canada, Uber’s SVP, Head of UberEats, and VPs at Ticketmaster.
